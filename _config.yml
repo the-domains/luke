@@ -1,0 +1,37 @@
+typography_spectrum: 0.33354900681367605
+color:
+  lightness: 0.43549565082747893
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  saturation: 0.7325597169792445
+  brandStrength: 0.8431291525580431
+  rhythmicContrast: 0.49387166827539036
+layout_spectrum: 0.4615712705473093
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3d4cac2-500b-4e37-a11f-9336e713632f.png
+name: Luke
+url: 'http://lk.kosnerburstein.com/'
+navigation:
+  - name: My Designer
+    id: 1b3a31ee-18f4-4b63-841e-df0ceb76dae4
+    type: content
+  - name: About Me
+    id: 70077636-65a2-4d18-819b-f01ddd22568a
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/595124b8-ba58-45f1-bd0a-85da428b39b8.png
+title: Luke Kosner
+content: []
+description: My space to be expressive.
+purpose:
+  - type: external
+    url: 'http://KosnerBurstein.com'
+    label: Kosner Burstein
+  - type: external
+    url: 'http://diane.kosnerburstein.com'
+    label: Diane
+github: true
