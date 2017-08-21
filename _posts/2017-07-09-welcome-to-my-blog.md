@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-19T13:35:00.316Z'
-dateModified: '2017-08-19T13:34:59.950Z'
+datePublished: '2017-08-21T10:58:33.018Z'
+dateModified: '2017-08-21T10:58:32.581Z'
 via: {}
 description: >-
   The Grid is an A.I. website maker that uses Molly, an artificial intelligence
