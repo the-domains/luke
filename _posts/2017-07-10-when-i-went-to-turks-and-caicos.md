@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-19T13:35:00.296Z'
-dateModified: '2017-08-19T13:34:59.950Z'
+datePublished: '2017-08-21T10:58:33.004Z'
+dateModified: '2017-08-21T10:58:32.581Z'
 description: When I went to Turks and Caicos
 via: {}
 sourcePath: _posts/2017-07-10-when-i-went-to-turks-and-caicos.md
