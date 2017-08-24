@@ -1,19 +1,19 @@
-typography_spectrum: 0.33354900681367605
+layout_spectrum: 0.9395245290206432
+typography_spectrum: 0.662242927504058
 color:
-  lightness: 0.43549565082747893
+  lightness: 0.9865149602521727
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-  saturation: 0.7325597169792445
-  brandStrength: 0.8431291525580431
-  rhythmicContrast: 0.49387166827539036
+  saturation: 0.08222392603155632
+  brandStrength: 0.5587753120800573
+  rhythmicContrast: 0.7313840901573179
 github: true
-layout_spectrum: 0.4615712705473093
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3d4cac2-500b-4e37-a11f-9336e713632f.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfa0f21b-d0bc-4afa-ab9c-ba95aa6a1d14.png
 name: Luke
 url: 'http://lk.kbf.am'
 navigation:
@@ -27,7 +27,7 @@ navigation:
     url: 'http://eepurl.com/c0mRGj'
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/595124b8-ba58-45f1-bd0a-85da428b39b8.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f91c9aa4-3b37-4bf7-9a94-9addbbcd39e7.png
 title: Luke Kosner
 content: []
 description: My space to be expressive.
