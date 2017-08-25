@@ -1,10 +1,10 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   as this lkProject, I am are encouraging businesses to make there home more
   important
-dateModified: '2017-08-25T20:31:30.131Z'
-datePublished: '2017-08-25T20:31:30.480Z'
+dateModified: '2017-08-25T20:32:34.446Z'
+datePublished: '2017-08-25T20:32:34.916Z'
 title: lkProject for local businesses
 author: []
 publisher: {}
@@ -14,7 +14,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-25T20:30:21.890Z'
 url: lkproject-for-local-businesses/index.html
-_type: Article
+_type: Blurb
 
 ---
 # lkProject for local businesses
