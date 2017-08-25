@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'We are the real deal, lkofficial'
-dateModified: '2017-08-21T10:58:32.581Z'
-datePublished: '2017-08-21T10:58:33.023Z'
+dateModified: '2017-08-25T20:31:31.075Z'
+datePublished: '2017-08-25T20:31:31.237Z'
 title: The real deal.
 author: []
 publisher: {}
