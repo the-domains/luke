@@ -12,8 +12,7 @@ color:
   brandStrength: 0.5587753120800573
   rhythmicContrast: 0.7313840901573179
 github: true
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfa0f21b-d0bc-4afa-ab9c-ba95aa6a1d14.png
+logo: null
 name: Luke
 url: 'http://lk.kbf.am'
 navigation:
@@ -26,8 +25,7 @@ navigation:
   - name: Sign Up
     url: 'http://eepurl.com/c0mRGj'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f91c9aa4-3b37-4bf7-9a94-9addbbcd39e7.png
+favicon: null
 title: Luke Kosner
 content: []
 description: My space to be expressive.
