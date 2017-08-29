@@ -1,18 +1,18 @@
 ---
-inFeed: true
+inFeed: false
 description: Luke Kosner // Summer Writing
-dateModified: '2017-08-29T23:18:17.840Z'
-datePublished: '2017-08-29T23:18:18.168Z'
+dateModified: '2017-08-29T23:18:20.659Z'
+datePublished: '2017-08-29T23:18:21.078Z'
 title: Summer Writing
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-29-summer-writing.md
 starred: false
 datePublishedOriginal: '2017-08-29T23:18:18.168Z'
-sourcePath: _posts/2017-08-29-summer-writing.md
 url: summer-writing/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Summer Writing
