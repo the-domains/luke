@@ -38,3 +38,5 @@ purpose:
   - type: external
     url: 'http://db.kbf.am'
     label: Diane
+analytics:
+  google: UA-104323546-4
