@@ -33,9 +33,6 @@ content: []
 description: My space to be expressive.
 purpose:
   - type: external
-    url: 'http://KosnerBurstein.com'
-    label: Kosner Burstein
-  - type: external
     url: 'http://db.kbf.am'
     label: Diane
 analytics:
