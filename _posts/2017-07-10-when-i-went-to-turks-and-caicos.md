@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-21T14:42:41.438Z'
-dateModified: '2017-09-21T14:42:40.959Z'
+datePublished: '2017-09-22T23:54:23.760Z'
+dateModified: '2017-09-22T23:54:23.407Z'
 description: When I went to Turks and Caicos
 via: {}
 sourcePath: _posts/2017-07-10-when-i-went-to-turks-and-caicos.md
@@ -16,8 +16,6 @@ _type: MediaObject
 
 ---
 When I went to Turks and Caicos
-
-For the full gallery go to
 
 <iframe src="https://the-grid.github.io/ed-location/?latitude=21.721468&amp;longitude=-71.620178&amp;zoom=13&amp;address=Turks%20and%20Caicos%20Islands" style=""></iframe>
 
