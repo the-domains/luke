@@ -1,4 +1,3 @@
-layout_spectrum: 0.8152465713089609
 typography_spectrum: 0.16668256833577658
 color:
   lightness: 0.5429475835271844
@@ -12,6 +11,9 @@ color:
   brandStrength: 0.9771478565822881
   rhythmicContrast: 0.21500040575815826
 github: true
+layout_spectrum: 0.8152465713089609
+analytics:
+  google: UA-104323546-4
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8299f37-6097-4a8d-977e-f465ce617e17.png
 name: Luke
@@ -23,6 +25,9 @@ navigation:
   - name: Sign Up
     url: 'http://eepurl.com/c0mRGj'
     type: external
+  - name: Turks And Caicos
+    id: eaa9fccc-49a2-40fd-ab1a-bc2d49bf9861
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4233fca-a53a-4a3b-8b12-7efdd0f2168f.png
 title: Luke Kosner
@@ -35,5 +40,3 @@ purpose:
   - type: external
     url: 'http://KosnerBurstein.com'
     label: KB
-analytics:
-  google: UA-104323546-4
