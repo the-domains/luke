@@ -20,9 +20,6 @@ navigation:
   - name: My Designer
     id: 1b3a31ee-18f4-4b63-841e-df0ceb76dae4
     type: content
-  - name: About Me
-    id: 70077636-65a2-4d18-819b-f01ddd22568a
-    type: content
   - name: Sign Up
     url: 'http://eepurl.com/c0mRGj'
     type: external
