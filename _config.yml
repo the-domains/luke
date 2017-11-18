@@ -22,9 +22,6 @@ navigation:
   - name: My Designer
     id: 1b3a31ee-18f4-4b63-841e-df0ceb76dae4
     type: content
-  - name: Sign Up
-    url: 'http://eepurl.com/c0mRGj'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4233fca-a53a-4a3b-8b12-7efdd0f2168f.png
 title: Luke Kosner
