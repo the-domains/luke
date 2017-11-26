@@ -4,15 +4,22 @@
         <description><![CDATA[Luke Kosner]]></description>
         <link>http://lk.kbf.am/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Nov 2017 19:59:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2017 21:31:34 GMT</lastBuildDate>
         <atom:link href="http://lk.kbf.am/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Nov 2017 19:59:40 GMT</pubDate>
+        <pubDate>Sun, 26 Nov 2017 21:31:33 GMT</pubDate>
         <item>
             <title><![CDATA[Welcome!]]></title>
             <description><![CDATA[<h1>Welcome!</h1>,<p>Welcome to my space and blog.</p>]]></description>
             <link>https://the-grid.github.io/ed-userhtml/?g=eJyzyU0tSVTIS8xNtVVKz89Pz0nVLc4sSdUtSy3KTMtMTizJzM9TUkjOzytJzSuxVTJOL0x2yjLNsvAq9EupSC4IdnJ0yjYpjEzxyCtJ0fUMjLcMrbSwKAxPDXNVUtC3AwBBcCBf</link>
             <guid isPermaLink="false">79c78042-8c6d-4036-8bc0-91ac8fb9dbd4</guid>
             <pubDate>Sun, 09 Jul 2017 22:14:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzySjJzbFT4FKwScpPqQQxFGwyDO0UPFJzcvJ1FMJTc5Lzc1MVSvIVfEqzU53zU1L1FGz0gSqAOvShWoB8kCEAQt8WEw" height="244"></iframe>]]></description>
+            <link>https://the-grid.github.io/ed-userhtml/?g=eJyzySjJzbFT4FKwScpPqQQxFGwyDO0UPFJzcvJ1FMJTc5Lzc1MVSvIVfEqzU53zU1L1FGz0gSqAOvShWoB8kCEAQt8WEw</link>
+            <guid isPermaLink="false">460402de-da21-4ef1-90ec-b278f279942e</guid>
+            <pubDate>Sun, 26 Nov 2017 21:31:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
