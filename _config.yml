@@ -14,16 +14,14 @@ github: true
 layout_spectrum: 0.8152465713089609
 analytics:
   google: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8299f37-6097-4a8d-977e-f465ce617e17.png
+logo: null
 name: Luke
 url: 'http://lk.kbf.am'
 navigation:
   - name: My Designer
     id: 1b3a31ee-18f4-4b63-841e-df0ceb76dae4
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4233fca-a53a-4a3b-8b12-7efdd0f2168f.png
+favicon: null
 title: Luke
 content: []
 description: My space to be expressive.
