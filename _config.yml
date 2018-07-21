@@ -1,4 +1,33 @@
-typography_spectrum: 0.16668256833577658
+name: Luke
+analytics: {}
+purpose:
+  - type: external
+    url: 'http://db.kbf.am'
+    label: Diane
+  - type: external
+    url: 'http://KosnerBurstein.com'
+    label: KB
+github: true
+description: My space to be expressive.
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+navigation:
+  - id: 1b3a31ee-18f4-4b63-841e-df0ceb76dae4
+    name: My Designer
+    type: content
+layout_spectrum: 0.8152465713089609
 color:
   lightness: 0.5429475835271844
   brandColors:
@@ -10,25 +39,9 @@ color:
   saturation: 0.6660801966171159
   brandStrength: 0.9771478565822881
   rhythmicContrast: 0.21500040575815826
-github: true
-layout_spectrum: 0.8152465713089609
-analytics:
-  google: ''
-logo: null
-name: Luke
-url: 'http://lk.kbf.am'
-navigation:
-  - name: My Designer
-    id: 1b3a31ee-18f4-4b63-841e-df0ceb76dae4
-    type: content
-favicon: null
+content_rating:
+  adult: false
+typography_spectrum: 0.16668256833577658
+opengraph: {}
 title: Luke
-content: []
-description: My space to be expressive.
-purpose:
-  - type: external
-    url: 'http://db.kbf.am'
-    label: Diane
-  - type: external
-    url: 'http://KosnerBurstein.com'
-    label: KB
+url: 'http://lk.kbf.am'
